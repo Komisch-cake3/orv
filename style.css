@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "Header", sans-serif;
+    font-family: "Header";
     src: url(Fonts/TheCheelaved-Regular.ttf) format("truetype");
     font-weight: normal;
     font-style: normal;
@@ -7,4 +7,8 @@
 
 body{
     background-color: #444b5d;
+}
+
+h1{
+    font-family: "Header", sans-serif;
 }
