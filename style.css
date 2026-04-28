@@ -1,17 +1,18 @@
-@font-face {
-    font-family: "Header";
-    src: url(Fonts/TheCheelaved-Regular.ttf) format("truetype");
+@font-face{
+    font-family: "Aethelion";
+    src: url("Fonts/aethelion-free.regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 body{
-    background-color: #3e4c71;
+    background-color: #444b5d;
 }
 
 h1{
-    font-family: "Header", sans-serif;
-    font-size: 70px;
-    color: #e5e565;
+    font-family: "Aethelion";
+    color:#ffffff;
+    font-size: 50px;
     text-align: center;
+
 }
