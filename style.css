@@ -6,11 +6,12 @@
 }
 
 body{
-    background-color: #444b5d;
+    background-color: #3e4c71;
 }
 
 h1{
     font-family: "Header", sans-serif;
     font-size: 70px;
-    color: #deded8;
+    color: #e5e565;
+    text-align: center;
 }
