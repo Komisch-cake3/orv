@@ -58,3 +58,13 @@ p{
     border-radius: 35px;
     opacity: 50%;
 }
+
+.bob:hover{
+    transform: scale(1.3);
+}
+.bob2:hover{
+    transform: scale(1.3);
+}
+.bob1:hover{
+    transform: scale(1.3);
+}
