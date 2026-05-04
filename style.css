@@ -12,16 +12,49 @@ body{
 h1{
     font-family: "Aethelion";
     color:#ffffff;
-    font-size: 50px;
+    font-size: 75px;
     text-align: left;
     font-weight: 100;
     position: relative;
     left: 30px;
 }
 
-.p1{
-    position: absolute;
-    height: 900px;
-    left: 970px;
-    top: -40px;
+p{
+    font-family: "Aethelion";
+    color:white;
+    font-size: 24.5px;
+    position:relative;
+    left: 60px;
+    top:-40px;
+}
+
+.holder1{
+    height: 250px;
+    width: 250px;
+    background-color: #7486b5;
+    border-radius: 35px;
+}
+
+.bob{
+    height: 250px;
+    width: 250px;
+    background-color: #7486b5;
+    border-radius: 35px;
+    opacity: 50%;
+}
+
+.bob1{
+    height: 250px;
+    width: 250px;
+    background-color: #7486b5;
+    border-radius: 35px;
+    opacity: 50%;
+}
+
+.bob2{
+    height: 250px;
+    width: 250px;
+    background-color: #7486b5;
+    border-radius: 35px;
+    opacity: 50%;
 }
