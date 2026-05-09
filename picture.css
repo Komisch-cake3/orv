@@ -7,6 +7,8 @@
 
 body{
     background-color: #444b5d;
+    overflow-x: hidden;
+
 }
 
 h1{
@@ -72,4 +74,13 @@ header{
     position: relative;
     left: 50px;
     top: 400px;
+}
+
+.k1{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 600px;
+    left: 100px;
+    border-radius: 25px;
 }
