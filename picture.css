@@ -84,3 +84,39 @@ header{
     left: 100px;
     border-radius: 25px;
 }
+
+.k2{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1000px;
+    left: 400px;
+    border-radius: 25px;
+}
+
+.k3{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1500px;
+    left: -800px;
+    border-radius: 25px;
+}
+
+.k4{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1300px;
+    left: 855px;
+    border-radius: 25px;
+}
+
+.k5{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1700px;
+    left: -350px;
+    border-radius: 25px;
+}
