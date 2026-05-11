@@ -137,8 +137,8 @@ h2{
     text-align: left;
     font-weight: 100;
     position: relative;
-    left: 900px;
-    top: 2480px;
+    left: 800px;
+    top: 2460px;
 }
 
 .line2{
@@ -221,20 +221,49 @@ h2{
     border-radius: 25px;
 }
 
-.k15{
-    height: 700px;
-    width: 450px;
+h3{
+    font-family: "Aethelion";
+    color:#ffffff;
+    font-size: 75px;
+    text-align: left;
+    font-weight: 100;
     position: relative;
-    top: 1700px;
-    left: -350px;
+    left: 1000px;
+    top: 4580px;
+}                         
+
+.line3{
+    background-color:#ffffff;
+    height:1px;
+    width: 1250px;
+    position: relative;
+    left: 50px;
+    top: 4500px;
+}
+
+.k15{
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: 4700px;
+    left: 100px;
     border-radius: 25px;
 }
 
 .k16{
-    height: 700px;
-    width: 450px;
+    height: 500px;
+    width:700px;
     position: relative;
-    top: 2300px;
-    left: -50px;
+    top: 5300px;
+    left: 100px;
+    border-radius: 25px;
+}
+
+.k17{
+    height: 500px;
+    width:700px;
+    position: relative;
+    top: 5400px;
+    left: 100px;
     border-radius: 25px;
 }
