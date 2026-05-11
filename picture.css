@@ -120,3 +120,121 @@ header{
     left: -350px;
     border-radius: 25px;
 }
+
+.k6{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 2300px;
+    left: -50px;
+    border-radius: 25px;
+}
+
+h2{
+    font-family: "Aethelion";
+    color:#ffffff;
+    font-size: 75px;
+    text-align: left;
+    font-weight: 100;
+    position: relative;
+    left: 900px;
+    top: 2480px;
+}
+
+.line2{
+    background-color:#ffffff;
+    height:1px;
+    width: 1250px;
+    position: relative;
+    left: 50px;
+    top: 2400px;
+}
+
+.k7{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1000px;
+    left: 100px;
+    border-radius: 25px;
+}
+
+.k8{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 900px;
+    left: 100px;
+    border-radius: 25px;
+}
+.k9{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1000px;
+    left: 100px;
+    border-radius: 25px;
+}
+
+.k10
+{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 600px;
+    left: 100px;
+    border-radius: 25px;
+}
+.k11{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 600px;
+    left: 100px;
+    border-radius: 25px;
+}
+
+.k12{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1000px;
+    left: 400px;
+    border-radius: 25px;
+}
+
+.k13{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1500px;
+    left: -800px;
+    border-radius: 25px;
+}
+
+.k14{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1300px;
+    left: 855px;
+    border-radius: 25px;
+}
+
+.k15{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 1700px;
+    left: -350px;
+    border-radius: 25px;
+}
+
+.k16{
+    height: 700px;
+    width: 450px;
+    position: relative;
+    top: 2300px;
+    left: -50px;
+    border-radius: 25px;
+}
