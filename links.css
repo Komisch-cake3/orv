@@ -29,3 +29,26 @@ p{
     top: -30px;
     font-size: 20px;
 }
+
+.link1{
+    color:white;
+    position: relative;
+    left: 100px;
+    top: 25px;  
+}
+
+.link2{
+    color:white;
+    position: relative;
+    left: -55px;
+    top: 40px;
+}
+
+.block1{
+    height:75px;
+    width: 400px;
+    background-color:#4e566c;
+    border-radius: 25px;
+    position: absolute;
+    left: 50px;
+}
