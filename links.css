@@ -34,14 +34,14 @@ p{
     color:white;
     position: relative;
     left: 100px;
-    top: 25px;  
+    top: -30px;  
 }
 
 .link2{
     color:white;
     position: relative;
-    left: -55px;
-    top: 40px;
+    left: 105px;
+    top: -30px;
 }
 
 .block1{
@@ -52,3 +52,31 @@ p{
     position: absolute;
     left: 50px;
 }
+
+.cover1{
+    width: 100x;
+    height: 70px;
+    left: 20px;
+    position: relative;
+    border-radius: 20px;
+}
+
+.block2{
+    height:75px;
+    width: 400px;
+    background-color:#4e566c;
+    border-radius: 25px;
+    position: absolute;
+    left: 50px;
+    top: 400px;
+}
+
+.cover2{
+    width: 100x;
+    height: 70px;
+    left: 20px;
+    position: relative;
+    border-radius: 20px;
+}
+
+
