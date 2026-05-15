@@ -97,7 +97,8 @@ h2{
 .kim{
     position: absolute;
     left: 900px;
-    top: 600px;
+    top: 550px;
+    height: 700px;
 }
 
 h4{
@@ -155,6 +156,31 @@ ul.b{
     height:1px;
     width: 200px;
     position: absolute;
-    top: 980px;
+    top: 1140px;
     left: 100px;
+}
+
+h3.c{
+    font-family: "Aethelion";
+    color:#ffffff;  
+    position: absolute;
+    top: 1130px;
+    left: 100px;
+}
+
+ul.c{
+    font-family:;
+    color:#ffffff; 
+    margin-left: 75px;
+    position: relative;
+    top: 475px;
+    font-size:15px;
+}
+.line5{
+    background-color:#ffffff;
+    height:1px;
+    width: 1250px;
+    position: relative;
+    left: 90px;
+    top: 500px;
 }
