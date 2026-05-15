@@ -101,19 +101,27 @@ h2{
 }
 
 h4{
-        font-family: "Aethelion";
+    font-family: "Aethelion";
     color:#ffffff;  
     position: absolute;
     top: 1150px;
     left: 100px;
 }
-
-li{
+h3{
     font-family: "Aethelion";
+    color:#ffffff;  
+    position: absolute;
+    top: 850px;
+    left: 100px;
+}
+
+
+ul.a{
+    font-family:;
     color:#ffffff; 
-    margin-left: 100px;
+    margin-left: 75px;
     position: relative;
-    top: 450px;
+    top: 425px;
     font-size:15px;
 }
 
@@ -122,6 +130,31 @@ li{
     height:1px;
     width: 200px;
     position: absolute;
-    top: 1060px;
+    top: 980px;
+    left: 100px;
+}
+
+h3.b{
+    font-family: "Aethelion";
+    color:#ffffff;  
+    position: absolute;
+    top: 965px;
+    left: 100px;
+}
+ul.b{
+    font-family:;
+    color:#ffffff; 
+    margin-left: 75px;
+    position: relative;
+    top: 450px;
+    font-size:15px;
+}
+
+.line4{
+    background-color:#ffffff;
+    height:1px;
+    width: 200px;
+    position: absolute;
+    top: 980px;
     left: 100px;
 }
